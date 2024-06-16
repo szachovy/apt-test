@@ -1,0 +1,11 @@
+Source: myhelloworld
+Version: 1.0
+Section: misc
+Priority: optional
+Maintainer: Your Name <your.email@example.com>
+Standards-Version: 4.5.0
+Build-Depends: debhelper (>= 12)
+Package: myhelloworld
+Architecture: amd64
+Description: A simple Hello World package
+ This package installs a simple script that prints "Hello, <parameter>!".
