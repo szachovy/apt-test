@@ -1,0 +1,8 @@
+Origin: My APT myhelloworld
+Label: My APT myhelloworld
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: My custom APT myhelloworld
